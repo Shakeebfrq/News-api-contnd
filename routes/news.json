@@ -1,0 +1,14 @@
+{
+    "news": [
+        {
+            "title": "Breaking News: Example Event",
+             "source": "Example News",
+            "date": "2023-08-08T12:00:00Z",
+             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec odio."
+        }
+            
+        
+    ]
+}
+
+  
